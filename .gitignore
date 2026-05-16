@@ -1,0 +1,17 @@
+# Binários
+bin/
+main
+api
+
+# Dependências e ferramentas
+vendor/
+.env
+
+# IDEs e OS
+.vscode/
+.idea/
+.DS_Store
+
+# Testes
+*.out
+*.test
